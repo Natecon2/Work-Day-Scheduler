@@ -45,6 +45,3 @@
     loadSavedEvents();
     displayCurrentDate();
   });
-  const dayjs = require('dayjs')
-  
-  dayjs().format()
