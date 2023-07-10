@@ -9,4 +9,6 @@ Use a calendar to save events and make sure you keep track of your plans!
 
 - Refresh the page and your box will be saved the way it was
 
+[Website (https://natecon2.github.io/Work-Day-Scheduler/)]
+
 ![Alt text](Images\Work%20screenshot.png)
